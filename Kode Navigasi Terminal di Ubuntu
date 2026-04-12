@@ -1,0 +1,32 @@
+________________________________
+
+KODE NAVIGASI TERMINAL DI UBUNTU
+________________________________
+
+1. ls (list directory): Digunakan untuk melihat daftar isi folder secara ringkas.
+
+2. ls – L: Menampilkan isi detail folder, ukuran file sampai tanggal dibuatnya.
+
+3. ls – la: Menampilkan file tersembunyi (file yang ada tanda titik di depannya)
+
+4. cd: Untuk masuk ke dalam folder "Documents". Nama folder harus sesuai agar perintah bisa berjalan lancar.
+
+5. cd .. : Untuk keluar dari folder yang sekarang dan balik ke folder sebelumnya (naik satu level ke atas).
+
+6. pwd: Untuk mengecek posisi folder berada saat ini menampilkan alamat jalurnya agar tidak bingung sedang berada di direktori mana.
+
+7. mkdir teknologi: Untuk untuk membuat folder baru dengan nama "teknologi".
+
+8. mkdir it: Untuk untuk menyiapkan folder "it" agar direktori sistem terlihat lebih rapi dan terstruktur.
+
+9. rm teknologi.txt: Untuk menghapus sebuah file bernama “teknologi.txt”.
+
+10. rm -r it: Untuk menghapus sebuah folder dan seluruh isinya secara permanen. Tambahan “ -r “ wajib ada jika ingin hapus folder bukan file biasa.
+
+11. ⁠mv so.txt informasi.txt: Untuk mengubah nama file yang tadinya bernama so.txt diganti namanya menjadi informasi.txt tanpa mengubah isi filenya.
+
+12. mv sistemoperasi.txt teknologi: Untuk memindahkan file ke folder "teknologi". 
+
+13. cd teknologi: Masuk ke dalam folder teknologi untuk mengecek isi di dalamnya.
+
+14. cat informasi.txt: Untuk membuka, membaca dan mengetahui isi dari file informasi.txt secara langsung dari terminal.
